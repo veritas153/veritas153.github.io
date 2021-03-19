@@ -1,12 +1,9 @@
 nav:
-  - title: "Services"
-    section: services
+  - title: "About"
+    section: timeline
 
   - title: "Portfolio"
     section: portfolio
-    
-  - title: "About"
-    section: timeline
 
   - title: "Team"
     section: team
@@ -14,5 +11,9 @@ nav:
   - title: "Contact"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  - title: "Blog(KR)"
+    url: "https://veritas153.tistory.com/"
+
+  - title: "Blog(EN)"
+    url: "https://veritas153.medium.com/"
+
