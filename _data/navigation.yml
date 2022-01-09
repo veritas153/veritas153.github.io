@@ -2,18 +2,15 @@ nav:
   - title: "About"
     section: timeline
 
+  - title: "Skills"
+    section: skills
+
   - title: "Portfolio"
     section: portfolio
-
-  - title: "Team"
-    section: team
 
   - title: "Contact"
     section: contact
 
   - title: "Blog(KR)"
     url: "https://veritas153.tistory.com/"
-
-  - title: "Blog(EN)"
-    url: "https://veritas153.medium.com/"
 

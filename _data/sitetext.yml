@@ -9,11 +9,11 @@ portfolio:
     text: "These are the websites I've made. Some of them might be under construction."
     section: portfolio
     closebutton: "Close Project"
-    
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "A breif descript about myself."
+    image: assets/img/timeline/profile_picture.jpg
     section: timeline
     # left is the default
     #start_align: "left"
@@ -21,26 +21,12 @@ timeline:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
+
+        alt:
+      
         # you can enforce the aligment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+        align: 
+  
 
 about:
     title: "About Us"
@@ -48,41 +34,23 @@ about:
     section: about
 
 team:
-    title: ""
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Skills"
+    text: "These are skills I've trained of."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    section: skills
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Spring/Java"
+        role: "Intermidate"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+ 
+      - name: "PHP"
+        role: ""
         image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      
+      - name: "MySQL"
+        role: "Intermidiate"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+   
           
 contact:
     title: "Contact Us"
@@ -92,7 +60,7 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/juyoung-kim-279861209/
         icon: "fab fa-linkedin-in"
       - url: https://github.com/veritas153
         icon: "fab fa-github"
