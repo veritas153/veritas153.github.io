@@ -1,6 +1,9 @@
 nav:
   - title: "About"
-    section: timeline
+    section: about
+
+  - title: "Career"
+    section: career
 
   - title: "Skills"
     section: skills

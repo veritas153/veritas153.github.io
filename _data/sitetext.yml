@@ -4,17 +4,22 @@ header:
     button: Tell Me More
     buttonlink: "#about"
 
+about:
+    title: "About Myself"
+    image: assets/img/about/profile_picture.jpg
+    text: "A junior backend/sever Engineer."
+    section: about
+
 portfolio:
     title: "Portfolio"
     text: "These are the websites I've made. Some of them might be under construction."
     section: portfolio
     closebutton: "Close Project"
 
-timeline:
-    title: "About" 
-    text: "A breif descript about myself."
-    image: assets/img/timeline/profile_picture.jpg
-    section: timeline
+career:
+    title: "Career" 
+    text: 
+    section: career
     # left is the default
     #start_align: "left"
     events:
@@ -28,27 +33,24 @@ timeline:
         align: 
   
 
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
 
-team:
+skills:
     title: "Skills"
     text: "These are skills I've trained of."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: skills
-    people:
+    tech:
       - name: "Spring/Java"
-        role: "Intermidate"
-        image: assets/img/team/500x500.jpg
+        level: "Intermidate"
+        image: assets/img/skills/spring.png
+        description: "Mainly work with it. Recently learning with Spring boot with JPA."
  
       - name: "PHP"
-        role: ""
+        level: ""
         image: assets/img/team/2.jpg
       
       - name: "MySQL"
-        role: "Intermidiate"
+        level: "Intermidiate"
         image: assets/img/team/500x500.jpg
    
           
