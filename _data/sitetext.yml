@@ -1,7 +1,7 @@
 header:
-    title: Welcome to our Studio!
+    title: This is Juyoung Kim's online resumè;
     text: It's Nice To Meet You
-    button: Tell Me More
+    button: More info
     buttonlink: "#about"
 
 about:
@@ -10,30 +10,23 @@ about:
     text: "A junior backend/sever Engineer."
     section: about
 
-portfolio:
-    title: "Portfolio"
-    text: "These are the websites I've made. Some of them might be under construction."
-    section: portfolio
-    closebutton: "Close Project"
-
 career:
     title: "Career" 
-    text: 
+    text: This is a path how I've walked through.
     section: career
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-
+      - title: "Cuber Solution (Internship)"
+        date: "2020.11 ~ 2021.05"
+        desc: "This is the beginning of career."
+        image: assets/img/career/cuber.gif
         alt:
       
         # you can enforce the aligment
         align: 
+    end:
   
-
-
 skills:
     title: "Skills"
     text: "These are skills I've trained of."
@@ -41,18 +34,26 @@ skills:
     section: skills
     tech:
       - name: "Spring/Java"
-        level: "Intermidate"
+        level: "Intermediate"
         image: assets/img/skills/spring.png
         description: "Mainly work with it. Recently learning with Spring boot with JPA."
  
       - name: "PHP"
-        level: ""
-        image: assets/img/team/2.jpg
-      
+        level: "Intermediate"
+        image: assets/img/skills/php.png
+        description: "Working with CMA at first time, but recently having started to learn Laravel."
+
       - name: "MySQL"
-        level: "Intermidiate"
-        image: assets/img/team/500x500.jpg
-   
+        level: "Intermediate"
+        image: assets/img/skills/mysql.png
+        description: "Able to write query for searching database, sometime combining more than 2 tables by joining."
+
+portfolio:
+    title: "Portfolio"
+    text: "These are the websites I've made. Some of them might be under construction."
+    section: portfolio
+    closebutton: "Close Project"
+
           
 contact:
     title: "Contact Us"
