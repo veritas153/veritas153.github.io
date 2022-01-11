@@ -8,6 +8,7 @@ about:
     title: "About Myself"
     image: assets/img/about/profile_picture.jpg
     text: "A junior backend/sever Engineer."
+    introduction: "I am a developer who constantly overcome hardship I've faced. "
     section: about
 
 career:
@@ -19,8 +20,8 @@ career:
     events:
       - title: "Cuber Solution (Internship)"
         date: "2020.11 ~ 2021.05"
-        desc: "This is the beginning of career."
-        image: assets/img/career/cuber.gif
+        desc: "This is the beginning of career. I had worked for 6 month as intern as backend/server engineer and participated two projects(BSS Battery Station, Email Security Training System) based on PHP."
+        image: assets/img/career/cuber.png
         alt:
       
         # you can enforce the aligment
@@ -47,6 +48,11 @@ skills:
         level: "Intermediate"
         image: assets/img/skills/mysql.png
         description: "Able to write query for searching database, sometime combining more than 2 tables by joining."
+
+      - name: "AWS"
+        level: "Novice"
+        image: assets/img/skills/AWS.jpeg
+        description: "Able to install website on server based on ubuntu. The basic security setting also included."
 
 portfolio:
     title: "Portfolio"
