@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://veritas153.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : Juyoung Kim's Profile
+title      : Juyoung Kim's Online Resumè
 email      : kjyoung153@hotmail.com #this is also the email contact forms will go to
 description: "This is the page describes who I am."
 author     : Juyoung Kim

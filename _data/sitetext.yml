@@ -8,7 +8,8 @@ about:
     title: "About Myself"
     image: assets/img/about/profile_picture.jpg
     text: "A junior backend/sever Engineer."
-    introduction: "I am a developer who constantly overcome hardship I've faced. "
+    introduction: "As backend developer, I believe constant learning is the key to be a better programmer. <br>
+                   My ultimate goal is becoming the one who can always responsible at my code, so everyone including customers can rely on my service without any stresses."  
     section: about
 
 career:
@@ -20,7 +21,7 @@ career:
     events:
       - title: "Cuber Solution (Internship)"
         date: "2020.11 ~ 2021.05"
-        desc: "This is the beginning of career. I had worked for 6 month as intern as backend/server engineer and participated two projects(BSS Battery Station, Email Security Training System) based on PHP."
+        desc: "This is the beginning of career. <br> I had worked for 6 month as intern as backend/server engineer and participated two projects(BSS Battery Station, Email Security Training System) based on PHP."
         image: assets/img/career/cuber.png
         alt:
       
