@@ -27,6 +27,13 @@ career:
       
         # you can enforce the aligment
         align: 
+
+      - title: "Media Changbi (Junior Backend/Server Developer)"
+        date: "2022.02 ~ "
+        desc: "Maintaining, operating, and developing services related with *Changbi Publishers*. "
+        image: assets/img/career/changbi.png
+        alt:
+        align: "right"
     end:
   
 skills:
